@@ -1,0 +1,3 @@
+name = Accordion Blocks
+description = "Creates collapsable blocks using the jquery accordion plugin."
+version = "5.x-1.0-dev"

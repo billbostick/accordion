@@ -1,0 +1,12 @@
+<?php
+// $Id: $
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function accordion_uninstall() {
+  // Delete variables
+//  variable_del('accordion_somevariable');
+}
+
+
